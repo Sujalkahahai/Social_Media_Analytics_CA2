@@ -1,0 +1,61 @@
+Check,Actual,Expected,Status
+Raw posts,1204,1204,PASS
+Accepted posts,1200,1200,PASS
+Rejected posts,3,3,PASS
+Exact duplicates,1,1,PASS
+Reconciliation,1204,1204,PASS
+Creators,60,60,PASS
+Campaigns,3,3,PASS
+Unique accepted post IDs,1200,1200,PASS
+Valid metrics,True,True,PASS
+Dates in 2025,True,True,PASS
+Manifest includes 3 sources,3,3,PASS
+SHA256 posts.csv,f59cb5f84cb1f7f015a3bf5e9212cbf5d97bffa7978ccfd15c95f6afcf4a2e51,f59cb5f84cb1f7f015a3bf5e9212cbf5d97bffa7978ccfd15c95f6afcf4a2e51,PASS
+SHA256 creators.csv,7d9f2ce06ad0608b4f56bcc62ba009069a42c173c2b3fb5be22ce51819ed468c,7d9f2ce06ad0608b4f56bcc62ba009069a42c173c2b3fb5be22ce51819ed468c,PASS
+SHA256 campaigns.json,fc775b1e9bec78136eaec62baef034f489e3fe433b0ad97235e9940a016ca45f,fc775b1e9bec78136eaec62baef034f489e3fe433b0ad97235e9940a016ca45f,PASS
+Required warehouse tables,6,6,PASS
+Fact records,1200,1200,PASS
+Fact foreign keys,5,5,PASS
+Foreign-key violations,0,0,PASS
+Duplicate fact post IDs,0,0,PASS
+Engagement mismatches,0,0,PASS
+Negative fact metrics,0,0,PASS
+Unknown creator mapped,1,1,PASS
+Unknown campaign mapped,1,1,PASS
+Unknown content mapped,1,1,PASS
+Q1 12 months,12,12,PASS
+Q1 total posts,1200,1200,PASS
+Q1 total_posts reconciles,1200,1200,PASS
+Q1 total_engagements reconciles,363087,363087,PASS
+Q1 total_impressions reconciles,8918703,8918703,PASS
+Q2 parent/child total_posts,True,True,PASS
+Q2 parent/child total_engagements,True,True,PASS
+Q2 parent/child total_impressions,True,True,PASS
+Q3 Instagram count,432,432,PASS
+Q4 matching posts,43,43,PASS
+Q4 combinations,4,4,PASS
+Q5 pivot,1200,1200,PASS
+Q6 total_posts,1200,1200,PASS
+Q6 total_likes,245517,245517,PASS
+Q6 total_comments,72827,72827,PASS
+Q6 total_shares,44743,44743,PASS
+Q6 total_engagements,363087,363087,PASS
+Q6 total_impressions,8918703,8918703,PASS
+Result Q1.csv,True,True,PASS
+Result Q2.csv,True,True,PASS
+Result Q2_parent.csv,True,True,PASS
+Result Q3.csv,True,True,PASS
+Result Q4.csv,True,True,PASS
+Result Q5.csv,True,True,PASS
+Result Q6.csv,True,True,PASS
+Result supp_a_content_metrics.csv,True,True,PASS
+Result supp_b_creator_segments.csv,True,True,PASS
+Result supp_c_monthly_trends.csv,True,True,PASS
+Result report_comparison.csv,True,True,PASS
+Result report_corrections.md,True,True,PASS
+Result rejected_posts.csv,True,True,PASS
+Result duplicate_posts.csv,True,True,PASS
+Chart chart1_monthly_posts.png,True,True,PASS
+Chart chart2_platform_quarter.png,True,True,PASS
+Chart chart3_campaign_rates.png,True,True,PASS
+Chart star_schema.png,True,True,PASS

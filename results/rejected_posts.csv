@@ -1,0 +1,4 @@
+post_id,posted_at,platform,creator_id,content_type,campaign_id,likes,comments,shares,impressions,rejection_reason
+PST_INV_1,2025-15-45 00:00:00,Instagram,CRT001,Image,CMP001,-100,5,2,500,Invalid date or outside 2025
+,2025-06-15 12:00:00,YouTube,CRT002,Video,CMP002,150,25,10,-10,Missing post_id
+PST_INV_3,2025-08-12 12:00:00,TikTok_Unsupported,CRT003,Text,CMP003,50,5,2,200,Unsupported platform

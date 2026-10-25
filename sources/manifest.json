@@ -1,0 +1,22 @@
+{
+    "timestamp": "2026-10-25T18:25:17.417726+00:00",
+    "seed": 51,
+    "origin": "synthetic",
+    "files": [
+        {
+            "name": "posts.csv",
+            "rows": 1204,
+            "sha256": "f59cb5f84cb1f7f015a3bf5e9212cbf5d97bffa7978ccfd15c95f6afcf4a2e51"
+        },
+        {
+            "name": "creators.csv",
+            "rows": 60,
+            "sha256": "7d9f2ce06ad0608b4f56bcc62ba009069a42c173c2b3fb5be22ce51819ed468c"
+        },
+        {
+            "name": "campaigns.json",
+            "rows": 3,
+            "sha256": "fc775b1e9bec78136eaec62baef034f489e3fe433b0ad97235e9940a016ca45f"
+        }
+    ]
+}

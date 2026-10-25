@@ -1,0 +1,10 @@
+region_name,country_name,total_posts,total_engagements,total_impressions,weighted_engagement_rate
+Asia-Pacific,Australia,164,48616,1222643,3.98
+Asia-Pacific,Japan,151,47474,1177312,4.03
+Asia-Pacific,Singapore,135,39908,1000394,3.99
+Europe,United Kingdom,151,43110,1049934,4.11
+Europe,Germany,150,47564,1132654,4.2
+Europe,France,128,39164,955488,4.1
+North America,United States,165,50659,1210200,4.19
+North America,Canada,155,46511,1166664,3.99
+Unknown Region,Unknown Country,1,81,3414,2.37

@@ -1,0 +1,17 @@
+[
+    {
+        "campaign_id": "CMP001",
+        "campaign_name": "Global Brand Awareness",
+        "objective": "Awareness"
+    },
+    {
+        "campaign_id": "CMP002",
+        "campaign_name": "Social Engagement Drive",
+        "objective": "Engagement"
+    },
+    {
+        "campaign_id": "CMP003",
+        "campaign_name": "Winter Conversion Push",
+        "objective": "Conversion"
+    }
+]
